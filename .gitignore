@@ -1,2 +1,4 @@
 *-main.c
+^(?!.*\.(c|h|md)$).*$
 0-node
+1-left
